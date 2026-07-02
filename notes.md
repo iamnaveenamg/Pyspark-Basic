@@ -13,19 +13,20 @@
     4.DataFrame & SQL API: Work with structured data using powerful, SQL-like operations.
 
 # PySpark Modules:
-Module | Description
-pyspark.sql: | Work with structured data using DataFrames and SQL queries.
-pyspark.ml: | Build machine learning pipelines (classification, regression, clustering, etc.).
-pyspark.streaming: | Process real-time data streams (e.g., Twitter feed, logs).
-pyspark.graphx: | Handle graph computations and social network analysis (Scala/Java primarily).
+
+    ' Module | Description '
+    1. pyspark.sql: | Work with structured data using DataFrames and SQL queries.
+    2. pyspark.ml: | Build machine learning pipelines (classification, regression, clustering, etc.).
+    3. pyspark.streaming: | Process real-time data streams (e.g., Twitter feed, logs).
+    4. pyspark.graphx: | Handle graph computations and social network analysis (Scala/Java primarily).
 
 # PySpark Works:
 
-Driver Program: Your Python script that initiates and controls the Spark job.
-SparkContext: Connects the driver to the Spark cluster and manages job configuration.
-RDDs/DataFrames: Data structures that are distributed and processed in parallel.
-Cluster Manager: Schedules and allocates resources to worker nodes (e.g., YARN, Mesos, Kubernetes).
-Executor Nodes: Run the actual tasks in parallel and return results to the driver.
+    1. Driver Program: Your Python script that initiates and controls the Spark job.
+    2. SparkContext: Connects the driver to the Spark cluster and manages job configuration.
+    3. RDDs/DataFrames: Data structures that are distributed and processed in parallel.
+    4. Cluster Manager: Schedules and allocates resources to worker nodes (e.g., YARN, Mesos, Kubernetes).
+    5. Executor Nodes: Run the actual tasks in parallel and return results to the driver.
 
 
 
