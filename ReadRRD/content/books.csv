@@ -1,0 +1,222 @@
+BOOK_ID,BOOK_TITLE,BOOK_COST,BOOK_TYPE,PUBL_ID,BOOK_EDITION,BOOK_DISCOUNT,ISBN,PUBL_DATE
+B0056,DataBase Systems,935.27,DB,11,Fifth,10,978-8131716250,01-MAY-08
+B0059,Database Systems,1003.67,DB,11,Eighth,10,978-8185015583,01-JAN-02
+B0063,The Java TM Programming Language,425,PR,11,Third,10,978-8131702215,01-JAN-08
+B0067,The Java TM EE5 Tutorial,725,PR,11,,18,978-8131714928,03-NOV-06
+B0071,The Complete Reference HTML & XHTML,540,PR,15,Fourth,16,978-0070701946,08-MAR-10
+B0075,Inside Microsoft  Office Sharepoint  Server 2007,699,PR,17,,15,978-9350041666,16-MAY-07
+B0081,MCITP  Microsoft Certified IT Professional 5-in-1 Study System,699,PR,7,,15,978-9350040102,01-JAN-11
+B0087,UNIX System Administrator's Bible,450,OS,5,,,978-0764531620,14-JUL-98
+B0090,UNIX Power Tools,750,PR,14,Third,20,978-0679790730,08-OCT-02
+B0094,Advanced Programming in the UNIX  Environment,599,PR,1,,15,978-8131762554,01-JAN-12
+B0099,Design Of The UNIX Operating System,295,OS,13,,,978-8177587708,01-JAN-90
+B0104,UNIX Network Programming,175,PR,13,,,978-8177583762,01-JAN-11
+B0107,UNIX Network Programming The Sockets Networking API Volume 1,450,PR,13,Third,15,978-8120328235,01-JAN-05
+B0176,The Art of Computer Systems Performance Analysis,382,SE,18,,10,978-8126519057,10-DEC-08
+B0181,Professional IIS 7 and ASP. NET Integrated Programming,494,PR,18,,12,978-8126515332,19-OCT-07
+B0187,Head First Design Patterns,365,PR,14,,8,978-8173664663,15-OCT-04
+B0190,Head First C#,523,PR,14,,12,978-8184044195,01-DEC-07
+B0193,Pattern-Oriented Software Architecture A System of Patterns,262,SE,18,,,978-8126516117,06-MAR-08
+B0199,Web Service Contract Design & Versioning for SOA,920,PR,12,,18,978-0136135173,24-SEP-08
+B0204,Principles Of Transaction Processing for The Systems Professional,5788.69,DB,9,,25,978-1558604155,25-JAN-97
+B0210,Oracle PL/SQL Programming,552.5,PR,14,Fifth,15,978-8184049497,28-SEP-09
+B0005,Network Security Bible,549,NW,18,Second,10,978-8126505760,16-FEB-05
+B0013,Object Oriented Modelling and Design with UML2,285,SE,11,Second,5,978-8131764626,01-JAN-11
+B0025,Computer organization and Architecture Designing for Performance,375,OS,11,Seventh,10,978-8131732458,01-JAN-10
+B0038,Information Security,315,NW,6,,12,978-8131509524,01-JAN-10
+B0046,MVS   TSO Part.1 Concepts and ISPF,2250,OS,20,Second,25,978-0911625561,01-DEC-81
+B0055,Modern Cryptography  Theory and Practice,625,NW,11,,18,978-8131702123,01-JAN-08
+B0069,J2EE  TM Architecture,457,PR,15,,,978-0070621633,20-NOV-06
+B0078,Programming Microsoft  SQL Server 2008,699,PR,17,,15,978-8178531496,01-JAN-08
+B0091,UNIX Internals  The New Frontiers,525,OS,11,,15,978-8177582499,01-DEC-08
+B0103,Advanced Programming in the UNIX  Environment,599,PR,11,Second,,978-8131700051,01-JAN-05
+B0113,Software Estimation Demystifying the Black Art,350,SE,17,,12,978-9350041284,18-OCT-11
+B0123,A Guide to DB2,843,DB,11,Fifth,,978-0201558210,31-DEC-82
+B0131,Innovation and Entrepreneurship,431.25,GN,22,,12,978-0060851132,09-MAY-06
+B0140,Windows Server 2008 Inside Out,895,OS,13,,20,978-8120335035,27-FEB-08
+B0148,CSS Cook book,600,PR,14,Third,18,978-8184048971,01-JAN-10
+B0156,HTML Black Book,449,PR,7,,14,978-8177220865,03-JUL-00
+B0163,The Complete Reference JSP2.0,550,PR,15,,17,978-0070531413,19-FEB-03
+B0172,Flash 8 IN Simple Steps,139,PR,7,,,978-8177226997,14-AUG-06
+B0183,Professional IIS 7,539,NW,18,,15,978-0470097823,11-MAR-08
+B0192,The Tipping Point,216.2,GN,,,,978-0349113463,14-FEB-02
+B0200,SOA Principles of Service Design,559,PR,14,,15,978-8131723098,01-JAN-07
+B0211,Beginning Iphone SDK Programming with Objective-C,424,PR,18,,12,978-8126525485,18-FEB-10
+B0001,Data Structures, Algorithms and Applications in C++,375,PR,16,Second,10,978-8173715228,01-JAN-05
+B0002,The C++ Programming Language,699,PR,11,Third,15,978-8131705216,01-JAN-08
+B0003,The Complete Reference C++,495,PR,15,Fourth,8,978-0070532465,02-APR-03
+B0004,Computer Networks,375,NW,11,Fourth,5,978-8177581652,01-DEC-08
+B0006,Intranet - Working with TCP/IP - Volume 1 Principles Protocols and Architecture,225,NW,13,Third,,978-8131707395,01-JAN-08
+B0007,Ipng Internet Protocol Next Generation,2165,NW,1,,,978-0201633955,23-MAY-95
+B0008,Internet - Working with TCP/IP - Volume II Design, Implementation and Internals,250,NW,13,,,978-0139738432,15-JUN-98
+B0009,Internet - Working with TCP/IP - Volume III Client Server programming and Applications,195,NW,13,,,978-0132609692,25-MAR-96
+B0010,Data structures using Java,460,PR,11,,10,978-0130477217,05-MAR-03
+B0011,Design Patterns Elements of Re-usable object oriented language,450,SE,11,,10,978-7111211266,01-JAN-08
+B0012,Object Oriented Analysis and Design,510,SE,11,,12,978-0321263179,09-NOV-04
+B0014,Object Oriented Design and Patterns,333,SE,18,,10,978-8126534715,01-JAN-12
+B0015,Object Oriented Analysis and Design with Applications,650,SE,11,Third,15,978-8131722879,01-JAN-09
+B0016,The Unified Software development Process,524,SE,1,,,978-8177583151,01-JAN-07
+B0017,Real Time Systems Design and Analysis,399,OS,18,,10,978-8126508303,23-JUN-06
+B0018,Appplying UML and Patterns An introduction to object oriented analysis and design and iterative development,499,SE,11,Third,15,978-8177589795,01-DEC-08
+B0019,UML 2 Bible,499,SE,18,,15,978-8126504527,26-SEP-03
+B0020,The Unified Modelling Language User Guide,625,SE,11,Second,18,978-8131715826,01-JAN-07
+B0021,UML Distilled A brief guide to standard object Modelling Language,250,SE,11,Third,0,978-8131715659,01-JAN-11
+B0022,The Art of Computer Programming Volume 1  Fundamental Algorithms,475,PR,11,Third,5,978-8177587548,01-JAN-02
+B0023,The Art of Computer Programming Volume 2  Seminumerical Algorithms,599,PR,11,Third,15,978-8177583359,01-JAN-98
+B0024,The Art of Computer Programming Volume 3 ,525,PR,11,Second,15,978-8131709832,01-JAN-08
+B0026,Introduction to Algorithms,425,PR,13,Third,10,978-8120340077,01-JAN-10
+B0027,Computer Architecture A Quantitative Approach,450,OS,9,,12,978-9381269220,01-JAN-11
+B0028,Data and Computer communications,435,NW,11,Eighth,12,978-8131715369,01-JAN-07
+B0029,Computer Organization and Design The Hardware Software Interface,495,OS,9,,15,978-8131222744,01-JAN-10
+B0030,Modern Operating Systems,450,OS,13,,15,978-8120339040,01-JAN-09
+B0031,Software Architecture Perspective on Emerging Discipline,150,SE,13,,,978-8120314702,01-JAN-09
+B0032,Software Engineering A Practitioner's Approach,412,SE,23,Fourth,,978-0071267823,01-APR-09
+B0033,Web Services - An Introduction,585,PR,15,,,978-1259002762,09-JAN-12
+B0034,Ten Steps to Maturity in Knowledge Management,755,SE,24,,,978-1843341307,01-JAN-06
+B0035,Integrated Approach to Web Performance Testing A practitioner's Guide,4137.75,SE,8,,,978-1591407850,15-MAR-06
+B0036,S O A in Practice,375,SE,14,,,978-8184043693,01-JAN-10
+B0037,Real-Time Computer Control An Introduction,375,OS,11,Second,12,978-8131713884,01-DEC-03
+B0039,Distributed Systems Concepts and Design,545,OS,11,Fourth,15,978-8131718407,01-JAN-08
+B0040,Principles Of Enterprise IT Architecture,503,SE,18,,,978-8126508983,01-JAN-06
+B0041,DB2 Developers Guide,905.12,DB,12,Third,10,978-0672305122,01-JUL-94
+B0042,MVS/VSAM For the Application Programmer,325,OS,14,,8,978-8173660023,01-JAN-93
+B0043,CICS Hand Book,450,PR,15,,12,978-0070486362,25-MAY-12
+B0044,Structured Cobol Programming,459,PR,18,Eighth,13,978-8126511877,15-MAR-07
+B0045,COBOL Programming Including MS-Cobol and Cobol-85,350,PR,15,Second,8,978-0074603185,06-FEB-01
+B0047,The Data Warehouse Toolkit,862.87,DB,18,Second,10,978-8126508891,18-JUL-06
+B0048,The Data warehouse ETL Toolkit,862.87,DB,18,,10,978-8126505548,05-OCT-04
+B0049,The Data Warehouse Life Cycle Toolkit,1204.81,DB,18,Second,18,978-0471255475,10-SEP-98
+B0050,Data Mining Techniques,703.98,DB,16,,8,978-8173716720,01-JAN-10
+B0051,Data Mining Concepts and Techniques,905.12,DB,9,,12,978-9380931913,01-JAN-11
+B0052,Applied Cryptography Protocols, Algorithms, and Source Code in C,459,PR,18,Second,12,978-8126513680,03-AUG-07
+B0053,DATABASE - Principles, Programming, Performance,995.64,DB,9,Second,,978-9380501284,01-JAN-10
+B0054,Cryptography and Network Security,325,NW,11,Fourth,8,978-8131761663,01-JAN-11
+B0057,Introduction to Data Compression,425,PR,9,Third,10,978-8131206249,01-JAN-10
+B0058,Distributed Database Systems,502.84,DB,11,,,978-8131727188,01-JAN-09
+B0060,Head First Java TM,550,PR,14,Second,12,978-8173666025,01-JAN-05
+B0061,Java in a Nutshell,650,PR,14,Fifth,15,978-8184042665,01-JAN-06
+B0062,Java Programming,699,PR,11,Seventh,16,978-8131729588,01-JAN-09
+B0064,Head First EJB TM,450,PR,14,,10,978-8173665264,01-JAN-03
+B0065,Core J2EE TM Patterns Best Practices and Design Strategies,550,PR,11,Second,15,978-8177586718,01-JAN-03
+B0066,J2EE  Web Services,575,PR,11,,15,978-8177589313,01-JAN-04
+B0068,Ajax Definitive Guide,750,PR,14,,20,978-8184044898,12-FEB-08
+B0070,The Complete Reference XML,625,PR,15,,18,978-0070447257,09-JUL-01
+B0072,Dynamic HTML The Definitive Reference,800,PR,14,,20,978-8173660269,05-JAN-07
+B0073,Inside Microsoft Windows 2000,700,OS,17,Third,,978-8178530345,01-JAN-01
+B0074,Introducing Windows  7,599,OS,17,,15,978-9350041550,25-JUL-11
+B0076,Microsoft Office Project 2007 Inside Out ,795,SE,13,,18,978-0735623279,30-MAY-07
+B0077,Pro WF Windows Workflow in. NET 3.5,649,PR,21,,15,978-8184890020,16-JUN-08
+B0079,Programming Microsoft Visual C# 2008 The Language,699,PR,17,,15,978-8178531403,28-MAY-08
+B0080,Programming Microsoft  ASP NET 3.5,699,PR,17,,16,978-9350041338,03-AUG-11
+B0082,Windows Internals Covering Windows Server 2008 & Windows Vista,799,OS,17,Fifth,18,978-9350041499,12-AUG-11
+B0083,Windows Server 2008  Bible,549,OS,18,,14,978-8126518203,28-AUG-08
+B0084,Windows Power Shell TM 2.0,395,OS,13,,9,978-8120338852,01-JAN-09
+B0085,Windows 7,395,OS,13,,9,978-8120339606,01-JAN-09
+B0086,Windows Server 2008,475,OS,14,,10,978-8184045000,01-JAN-08
+B0088,Power Programming With RPC,1378,PR,14,,,978-0937175774,01-FEB-92
+B0089,SED & AWK,350,PR,14,Second,8,978-8173660788,01-JAN-97
+B0092,Bash Cookbook TM,500,PR,14,,15,978-8184043471,01-JAN-07
+B0093,Fedora 10 and Red Hat Enterprise Linux  Bible,599,OS,18,,15,978-0470413395,16-JAN-09
+B0095,UNIX  Security R&D Books,195,PR,5,,,,
+B0096,The Design of The Unix Operating System,276,OS,13,,,978-8120305168,01-JAN-98
+B0097,UNIX System Administration Handbook,1135,OS,12,Second,,978-8131720554,01-JAN-08
+B0098,The UNIX Programming Environment,250,PR,13,,,978-8120304994,01-JAN-87
+B0100,UNIX Shell Programming,225,PR,3,,,978-8170297536,11-AUG-03
+B0101,The Art of UNIX Programming,450,PR,10,,12,978-8131704677,01-JAN-04
+B0102,Advanced UNIX Programming,465,PR,11,Second,12,978-8131717059,01-JAN-04
+B0105,Unix Network Programming: Interprocess Communications V. 2,450,PR,11,Second,,978-8177583700,12-MAY-05
+B0106,Articles on Unix Network-Related Software,1298,PR,11,Second,,978-1242968501,29-AUG-11
+B0108,UNIX Network Programming Volume 2  Interprocess Communications,275,PR,13,Second,,978-8120320628,01-JAN-02
+B0109,File Structures An Object-Oriented Approach With C++,440,PR,11,,,978-8131759042,01-JAN-11
+B0110,Moodle 1.9 Multimedia Create and Share multimedia learning materials in your Moodle Courses,350,PR,14,,8,,21-MAY-09
+B0111,Hunting Security Bugs,599,NW,18,,14,978-0735621879,30-AUG-06
+B0112,Managing Projects With Microsoft Office Project 2007 - MCTS Self-Paced Training Kit(Exam 70-632),595,SE,13,,14,978-8120335585,01-JAN-08
+B0114,Understanding DB2 Learning Visualla With Examles,1357.67,DB,11,Second,15,978-8131720523,01-JAN-11
+B0115,Cloud Computing with the Windows Azure TM Platform,399,OS,18,,12,978-8126524075,26-NOV-09
+B0116,IBM Cognos 8 Business Intelligence The Official Guide,1307.39,DB,15,,15,978-0070264823,01-JAN-08
+B0117,The Art Of Software Testing,499,SE,18,Second,12,978-8126510061,28-NOV-06
+B0118,The Mythical Man-Month Essays on Software Engineering,299,SE,11,,8,978-0201835953,02-AUG-95
+B0119,Active Directory Administrators Pocket Consultant,653.68,DB,13,,8,978-8120337640,14-JAN-09
+B0120,Windows Small Business Server 2008,450,OS,13,,10,978-0735625204,01-APR-09
+B0121,Introduction to Parallel Computing,445,OS,11,Second,9,978-8131708071,01-JAN-07
+B0122,Data Structures and Algorithms,410,PR,11,,8,978-8177588262,01-JAN-83
+B0124,Multimedia Computing, Communications & Applications,535,NW,11,,15,978-8177584417,01-DEC-05
+B0125,Moodle 1.9 E-Learning Coures Development,450,PR,14,,10,978-8184045710,
+B0126,Distributed Systems Principles and Paradigms,395,OS,13,Second,9,978-8120334984,01-JAN-08
+B0127,Team Development With Microsoft Visual Studio   Team Foundaton Server,525,PR,13,,15,978-8120336841,01-JAN-08
+B0128,Beautiful Architecture   Leading Thinkers Reveal the Hidden Beauty in  Software Design        ,500,SE,14,,15,978-8184046908,01-JAN-10
+B0129,Masterminds of Programming,450,PR,14,,12,978-8184047028,14-APR-09
+B0130,Beautiful Security,350,NW,14,,10,978-8184047110,01-JAN-09
+B0132,The New Age of Innovation,672.75,GN,15,,15,978-0070248618,27-MAR-08
+B0133,The Innovator's Dilemma,618.7,GN,4,,15,978-0062060242,04-OCT-11
+B0134,Software Architecture in Practice,378,SE,11,Second,9,978-8177589962,01-DEC-06
+B0135,The Black Swan The Impact of the Highly Improbable,458.85,GN,10,,,978-0141034591,28-FEB-08
+B0136,Fooled by Randomness The Hidden Role Of Chance in Life and in the Markets,343.85,GN,10,Second,,978-0141031484,03-MAY-07
+B0137,Freak on Omics A Rogue Economist Explores the Hidden Side Of Everything,218.5,GN,10,,,978-0141019017,18-JUN-07
+B0138,The Wealth Of Nations,420.61,GN,2,,,978-0553585971,04-MAR-03
+B0139,Understanding IPv6,495,NW,13,Second,12,978-8120334632,22-JUN-12
+B0141,Professional Team Foundation Server,499,PR,18,,15,978-0471919308,24-NOV-06
+B0142,The Mind's I Fantasies and Reflections on Self and Soul,730.25,GN,,,5,978-0140062533,25-NOV-82
+B0143,Godel Escher Bach anEternal Golden Braid,943,GN,,,,978-0140289206,30-MAR-00
+B0144,Programming Pearls,203,PR,1,,,978-0201657883,27-SEP-99
+B0145,Super Freakonomics,634.8,GN,18,,,978-0062312877,31-DEC-98
+B0146,Eclipse,276,PR,14,,8,978-8173669019,10-AUG-04
+B0147,Professional Ajax,449,PR,18,Second,12,978-8126512065,23-AUG-07
+B0149,Ajax A Beginner's Guide,450,PR,15,,12,978-0070139695,01-JAN-08
+B0150,Web Sphere Application Server,600,OS,14,,15,978-8184041217,01-JAN-06
+B0151,Core Servlets and Java Server Pages,525,PR,11,Second,16,978-8131701638,01-JAN-04
+B0152,File Structures An Object-Oriented Approach With C++,510,PR,11,Nineth,15,,
+B0153,UNIX Concepts and Applications,395,OS,15,Fourth,13,978-0070635463,10-MAY-06
+B0154,The Complete Reference J2EE,595,PR,15,,14,978-0070529120,01-JAN-02
+B0155,Operating Systems A Concept-Based Approach,395,OS,23,Second,13,978-0070611948,01-JAN-06
+B0157,Python Create - Modify - Reuse,379,PR,18,,12,978-8126518029,20-AUG-08
+B0158,CODE Complete,599,PR,17,Second,16,978-9350041246,02-NOV-11
+B0159,The Complete Reference Java Script,625,PR,15,Second,18,978-0070590274,01-JAN-04
+B0160,The Complete Reference Visual Basic NET,550,PR,15,,17,978-0070495111,01-JAN-02
+B0161,Java For Artists The Art, Philosophy, And Science Of Object-Oriented Programming With Java,525,PR,14,,16,978-8184045864,01-JAN-08
+B0162,Beginning Java Server Pages,549,PR,18,,17,978-8126505838,26-FEB-05
+B0164,AS/400 A Practical Guide to Programming and Operations,225,PR,14,,,978-0471603092,29-OCT-93
+B0165,AS/400 Architecture & Application The Database Machine,502.84,DB,14,,,978-0471581413,29-OCT-93
+B0166,Fundamentals of Computer Algorithms,375,PR,16,Second,12,978-8173716126,01-JAN-08
+B0167,Data Structures Using C,325,PR,11,,10,978-8131703281,01-JAN-06
+B0168,Object-Oriented Software Engineering,550,SE,11,,15,978-8131704080,01-JAN-92
+B0169,Silverrlight 2 Bible,449,PR,18,,13,978-8126518913,25-NOV-08
+B0170,UNIX Shells by Example,850,PR,18,Fourth,20,978-8131725269,
+B0171,Data Structures A Pseudocode Approach With C++,433,PR,3,,14,978-9812406446,01-JAN-01
+B0173,3ds max 7 Bible,549,PR,18,,,978-8126505975,01-JAN-05
+B0174,Macromedia Flash MX 2004 Bible,529,PR,18,,,978-0072222661,22-MAR-02
+B0175,Building the Data Warehouse,714.04,DB,18,Fourth,9,978-8126506453,10-OCT-05
+B0177,Beginning ASP. Net 4 in C# and VB,494,PR,18,,12,978-8126526055,22-APR-10
+B0178,ASP. NET 3.5 A Beginner's Guide,418,PR,15,,10,978-0070140684,15-DEC-08
+B0179,Understanding. NET,373,PR,1,Second,9,978-0201741629,31-JAN-02
+B0180,Microsoft Exchange Server 2007 Administrator's Pocket Consultant,375,OS,13,,9,978-0735625860,01-JAN-08
+B0182,Microsoft Power Shell, VBScript, and Jscript . Bible,494,PR,18,,12,978-8126521708,26-JUN-09
+B0184,Internet Information Services (IIS) 7.0 Administrator's Pocket Consultant,319,NW,13,,8,978-8120334472,01-JAN-08
+B0185,Microsoft. NET Framework 3.5-ASP. NET Application Development,795,PR,13,,18,978-8120338050,01-JAN-09
+B0186,Head First Servlets & JSP,455,PR,14,Second,12,978-8184044973,15-MAR-08
+B0188,Data Base Tuning Principles, Experiments, & Troubleshooting Techniques,716.04,DB,22,,8,978-8181473240,01-JAN-04
+B0189,Professional ADO. NET2 Programming With SQL Server 2005, Oracle, & MySQL,529,PR,18,,12,978-8126506873,16-DEC-05
+B0191,Practice Exams Java,1294,PR,23,,25,978-8177228779,11-MAR-11
+B0194,Core Java Volume 1 - Fundamentals,552,PR,11,Eighth,14,978-8131719459,01-JAN-08
+B0195,Service Oriented Architecture With Java,238,PR,14,,,978-8184045758,01-JAN-08
+B0196,Service- Oriented Architecture Concepts, Technology, and Design,390,SE,11,,8,978-8131714904,01-JAN-07
+B0197,SOA Design Patterns,958,PR,12,,18,978-0136135166,31-DEC-08
+B0198,Business Rules Management and Service Oriented Architecture,332,SE,18,,9,978-8126512997,01-JAN-07
+B0201,The Complete Reference Java,396,PR,15,Seventh,10,978-0070636774,15-DEC-06
+B0202,SQL & PL/SQL for Oracle 10g Black Book,957.41,DB,7,,12,978-8177227109,14-NOV-06
+B0203,Understanding SOA With Web Services,339,SE,11,,10,978-8131711132,01-JAN-05
+B0205,Transaction Processing Concepts & Techniques,13375.52,DB,9,,25,978-1558601901,30-SEP-92
+B0206,Head First C#,440,PR,14,Second,10,978-9350230350,14-MAY-10
+B0207,Programming ASP. NET 3.5,585,PR,14,Fourth,15,978-8184046113,01-JAN-08
+B0208,Pro C# 2010 and the .NET 4 Platform,559,PR,21,Fifth,15,978-8184897203,07-OCT-10
+B0209,Learning ASP.NET 3.5,360,PR,14,Second,9,978-8184045666,01-JAN-08
+B0212,Cocoa and Objectve - C  Up and Running,446,PR,14,,12,978-9350230152,07-APR-10
+B0213,Programming in Objective-C 2.0,1601,PR,1,Second,20,978-8131770672,29-DEC-08
+B0220,Best thing about you is you,402.5,GN,,,,,
+B0215,Oracle Tuning,1136.41,DB,,,,,
+B0219,Oracle DB Tuning,669.78,DB,1,,,,
+B0218,Harry Potter,343,,43,,,,
+B0214,Data Mining,225,DB,10,First,10,,
+B0216,Linux System,453.23,OS,5,First,,,
+B00300,DB2 Programming,180.99,DB,2,THIRD,,,
+B0217,Windows Developers Guide,343,OS,11,,,,

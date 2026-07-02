@@ -1,0 +1,332 @@
+AUTHOR_ID,AUTHOR_NAME
+1,A. Kannan
+2,Aaron M. Tenenbaum
+3,Adam Smith
+4,Adity Gupta
+5,Alex lonescu
+6,Alex Mackman
+7,Alfred.V.Aho
+8,Alon Fliess
+9,Ananth Grama
+10,Andre Tost
+11,Andreas Reuter
+12,Andrew J. Brust
+13,Andrew M. Rudoff
+14,Andrew S.Tanenbaum
+15,Andrew Stellman
+16,Andrew Tanenbaum
+17,Andrew Troelsen
+18,Andy Oram
+19,Anish Karmarkar
+20,Anshul Gupta
+21,Anthony T. Holdener3
+22,Arnold Robbins
+23,Arun K Pujari
+24,Auron Tenenbaum
+25,B. M. Subraya
+26,B.V Kumar
+27,Behrouz A. Forouzan
+28,Bert Bates
+29,Bill Fenner
+30,Bill Zoellick
+31,Binildas CA
+32,Bjarne Stroustrup
+33,Bob Becker
+34,Bobby Young
+35,Bonnie Biafore
+36,Brad Dayley
+37,Bradner
+38,Brian MacDonald
+39,Brian W. Kernighan 
+40,Bruce Bukovics
+41,Bruice Schneier
+42,Bryan Basham
+43,Bryan Jeffries
+44,C. J. Date
+45,C.K.Prahalad 
+46,Cameron New bam
+47,Canyang Kevin Liu
+48,Carl Albing
+49,Cay Horstman
+50,Cay S. Horstmann
+51,Charles Leiserson
+52,Chhanda Ray
+53,Christopher Negus
+54,Christopher Schmitt
+55,Ciayton M.Christensen
+56,Clifford Stein
+57,Colin J.White
+58,Craig Larman
+59,Craig S. Mullins
+60,Craig Zacker
+61,D M Dhamdhere
+62,D. Ghosh Dastidar
+63,Dale Dougherty 
+64,Dan Hurwitz
+65,Dan Mabarry
+66,Dan Malks
+67,Dan Volitich
+68,Daniel C.Dennett
+69,Danny Goodman
+70,David A. Solomon
+71,David Chappll
+72,David Flanagan
+73,David Holmes
+74,David L Stevens
+75,David Orchard
+76,Deanna Reynolds
+77,Debbie Carson
+78,Deepak Alur
+79,Dennis Glendenning
+80,Dennis Shasha
+81,Dino Esposito
+82,Diomidis Spinellis
+83,Donald G. Zeilenga
+84,Donald Knuth
+85,Donis Marshall
+86,Donna M. Lenczycki
+87,Doug Lowe
+88,Douglas E Comer
+89,Douglas R.Hofstadter
+90,Dr. Shahram Khosravi
+91,Dr.P.S. Deshpande
+92,Dwaine R.Snow
+93,Elisabeth Freeman
+94,Elizabeth O' Neil
+95,Ellie Quigley
+96,Ellis Horowitz
+97,Eric Cole
+98,Eric Foster-Johnson
+99,Eric Freeman
+100,Eric Jendrock
+101,Eric Newcomer
+102,Eric Steven Raymond
+103,Erich Gamma
+104,Erik Gunvaldson
+105,Essential Reference Series
+106,Evi Nemeth
+107,Federico Biancuzzi
+108,Frank Buschmann
+109,Frederick P Brooks, Jr
+110,Fritz Schneider
+111,Garth Snyder
+112,Gary Cornell
+113,Gary D. Brown
+114,George Coulouris
+115,George Karypis
+116,Georgios Gousios
+117,Glenford J.Myers
+118,Glenn Johnson
+119,Grady Booch
+120,Grand Masters
+121,Greg Lomow
+122,Greg Riccardi
+123,Gregory A.Beamer
+124,Gunnar Overgaard
+125,Hans Rohnert
+126,Heather  Williamson
+127,Herbert J. Mattord
+128,Herbert Schildt
+129,Hugo Haas
+130,Ian Evans
+131,Ian Graham
+132,Imar Spaanjaars
+133,Ivar Jacobson
+134,J P Vossen
+135,J. K. Suresh
+136,J.D.Meier
+137,James Gosling
+138,James O'Neill
+139,James Pasley
+140,James Rumbaugh
+141,James W Conley
+142,Jason Taylor
+143,Jean Dollimore
+144,Jean-Luc David
+145,Jeff Cochran
+146,Jeffrey D.Ullman
+147,Jeffrey R. Shapiro
+148,Jeffrey Rosen
+149,Jennifer Ball
+150,Jennifer Greene
+151,Jeremy McPeak
+152,Jerry Peek
+153,Jesse Liberty
+154,Jiawei Han 
+155,Jill T. Lawrence
+156,Jim Conallen
+157,Jim Gray
+158,Jim Keogh
+159,Jim Knowlton
+160,Joao Pedro Soares Fernandes
+161,Joe Caserta
+162,Joe Fawcett
+163,John Bloomer
+164,John Crupi
+165,John Deacon
+166,John E.Hopcroft
+167,John Hennessy
+168,John J. Croft IV
+169,John T. Bell
+170,John Viega
+171,John Vlissides
+172,Joli Ballew
+173,Jon Bentley
+174,Jon Eaves
+175,Jonathan Hassell
+176,Joseph Davies
+177,Joy Munday
+178,Kathy Sierra
+179,Kavi Mahesh
+180,Kelli Houston
+181,Kelly L. Murdock
+182,Ken Arnold
+183,Ken Schaefer
+184,Kevin Jones
+185,Khalid Sayood
+186,Kim Haase
+187,Klara Nahrstedt
+188,Kogent Learning Solutions Inc
+189,Larry Brown
+190,Laurence Moroney
+191,Lawrence Landaues
+192,Len Bass, 
+193,Leonard Lobel
+194,Lisa DaNae Dayley
+195,M.K. Roy
+196,M.S.Krishnan
+197,Maark E. Russinovich 
+198,Magnus Christerson
+199,Malcolm Gladwell
+200,Malhar Barai
+201,Mankin
+202,Manoj Subhadevan
+203,Marc J. Rochkind
+204,Margy Ross
+205,Mark E. Russinovich
+206,Marten Van Steen
+207,Martin Fowler
+208,Marty Hall
+209,Mary Shaw David Garlan
+210,Maurice J. Bach
+211,Michael Blaha
+212,Michael Dang
+213,Michael E. Whitman
+214,Michael Engle
+215,Michael J.Folk
+216,Michael Stal
+217,Michale J. Folk
+218,Micheline Kamber
+219,Mickey Gousset
+220,Mike Everest
+221,Mike Loukides
+222,Mike Snell
+223,Moshe J. Augenstein
+224,Nancy Stern
+225,Nassim Nicholas Taleb
+226,Nicholas C.Zakas
+227,Nicolai M. Josuttis
+228,Owen Cline 
+229,Patrick O' Neil
+230,Patrick Tisseghem
+231,Patrik Jonsson
+232,Paul Clements
+233,Paul Iarrera
+234,Peter F.Drucker
+235,Peter Sommerlad
+236,Peter Van Sickel
+237,Phil Hanna
+238,Phili A.Bernstein
+239,Philippe Bonnet
+240,Phillip Laplante
+241,Prakash Goteti
+242,Prashant Bansode
+243,Priscilla Walmsley
+244,Raffi Kasparian
+245,Raj Jain
+246,Ralf Steinmetz 
+247,Ralph Johnson
+248,Ralph Kimball
+249,Rama Turaga
+250,Ramez Elmasri
+251,Raul F.Chong
+252,Regine Meunier
+253,Richard F. Gilberg 
+254,Richard Helm
+255,Richard Monson-Haefel
+256,Rick Kazman
+257,Rick Miller
+258,Robert A. Stern
+259,Robert Maksimchuk
+260,Robert Reinhardt 
+261,Robpike
+262,Roger Jennings
+263,Roger S.Pressman 
+264,Ronald G.Ross
+265,Ronald Krutz
+266,Ronald Rivest
+267,Rupert Jones
+268,S. Sangeetha
+269,S. Swamynathan
+270,S.A.M. Smith
+271,S.V Subrahmanya
+272,Sanguthevar Rajasekaran
+273,Sartaj Sahni
+274,Sasha Goldshtein
+275,Scoot Fordin
+276,Scott Forsyth Rob Baugh
+277,Scott Seebass
+278,Scott Stevenson
+279,Shalini Gupta 
+280,Sham kant B. Navathe
+281,Shane Warden
+282,Shelley Powers
+283,Sing Li
+284,Snow Dowd
+285,Stephen A. Rago
+286,Stephen Forte
+287,Stephen G. Kochan
+288,Stephen J.Dubner
+289,Steve Holzner
+290,Steve Mcconnell
+291,Steven D.Levitt 
+292,Steven Feuerstein with Bill Pribyl
+293,Steven Holzner
+294,Stuart Bennett
+295,Sudeep Mallick
+296,Sumitabha Das
+297,SYS Admin 
+298,Teresa S. Stover
+299,Thomas A. Powell
+300,Thomas Cormen
+301,Thomas Erl
+302,Thomas Powell 
+303,Tim Kindberg
+304,Tim O'Reilly
+305,Tom Gallagher
+306,Tom Pender
+307,Tony Northrup
+308,Trent R. Hein
+309,Umit Yalcinalp
+310,Uresh Vahalli
+311,Vincenzo Caselli
+312,Vipin Kumar
+313,Vivek Chopra
+314,W. Richard Stevens
+315,Wallace B. McClure
+316,Warren Thornthwaite
+317,Wei-Meng Lee
+318,Wenbo Mao
+319,William B. Sanders
+320,William H. Inmon
+321,William H.Rice IV
+322,William R. Stanek
+323,William Stalling
+324,Xiaomei Wang
+325,Y Ves Lepage
+326,Y. Daniel Liang
+327,Yashavant P. Kanetkar
+328,Yedidyah Langram
+329,Yochay Kiriaty
+330,Yukihisa Kageyama
+331,David Patterson

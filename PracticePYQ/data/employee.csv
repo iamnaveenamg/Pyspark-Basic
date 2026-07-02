@@ -1,0 +1,12 @@
+emp_id,emp_name,department,salary,join_date
+1,A. Kannan, Engineering, 70000, 2021-06-15
+2,Aaron M. Tenenbaum, Engineering, 70000, 2021-06-01
+3,Adam Smith, Marketing, 76000, 2021-07-19
+4,Adity Gupta, Engineering, 60000, 2021-03-17
+5,Alex lonescu, Sales, 50000, 2021-02-18
+6,Alex Mackman, Engineering, 40000, 2021-01-19
+7,Alfred.V.Aho, Sales, 45000, 2021-11-25
+8,Alon Fliess, Engineering, 35000, 2021-12-05
+9,Ananth Grama, Marketing, 30000, 2021-03-20
+10,Andre Tost, Sales, 25000, 2021-05-11
+
